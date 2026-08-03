@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/kumarvarun3162/Leetcode/tree/master/0319-bulb-switcher) |
 | [0486-predict-the-winner](https://github.com/kumarvarun3162/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kumarvarun3162/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1406-stone-game-iii](https://github.com/kumarvarun3162/Leetcode/tree/master/1406-stone-game-iii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kumarvarun3162/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/kumarvarun3162/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/kumarvarun3162/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kumarvarun3162/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/kumarvarun3162/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1406-stone-game-iii](https://github.com/kumarvarun3162/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kumarvarun3162/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kumarvarun3162/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Binary Search
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/kumarvarun3162/Leetcode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/kumarvarun3162/Leetcode/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/kumarvarun3162/Leetcode/tree/master/1406-stone-game-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/kumarvarun3162/Leetcode/tree/master/0486-predict-the-winner) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kumarvarun3162/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/kumarvarun3162/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1406-stone-game-iii](https://github.com/kumarvarun3162/Leetcode/tree/master/1406-stone-game-iii) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kumarvarun3162/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Combinatorics
 |  |
@@ -143,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kumarvarun3162/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/kumarvarun3162/Leetcode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kumarvarun3162/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/kumarvarun3162/Leetcode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/kumarvarun3162/Leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
