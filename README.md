@@ -166,4 +166,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kumarvarun3162/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/kumarvarun3162/Leetcode/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/kumarvarun3162/Leetcode/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/kumarvarun3162/Leetcode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
