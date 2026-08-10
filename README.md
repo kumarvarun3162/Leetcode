@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/kumarvarun3162/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/kumarvarun3162/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kumarvarun3162/Leetcode/tree/master/1510-stone-game-iv) |
+| [2457-minimum-addition-to-make-integer-beautiful](https://github.com/kumarvarun3162/Leetcode/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kumarvarun3162/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kumarvarun3162/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kumarvarun3162/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kumarvarun3162/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2457-minimum-addition-to-make-integer-beautiful](https://github.com/kumarvarun3162/Leetcode/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kumarvarun3162/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kumarvarun3162/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Depth-First Search
