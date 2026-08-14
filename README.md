@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kumarvarun3162/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/kumarvarun3162/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/kumarvarun3162/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/kumarvarun3162/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0486-predict-the-winner](https://github.com/kumarvarun3162/Leetcode/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/kumarvarun3162/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kumarvarun3162/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kumarvarun3162/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/kumarvarun3162/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/kumarvarun3162/Leetcode/tree/master/0605-can-place-flowers) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/kumarvarun3162/Leetcode/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kumarvarun3162/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -283,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/kumarvarun3162/Leetcode/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/kumarvarun3162/Leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/kumarvarun3162/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/kumarvarun3162/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
