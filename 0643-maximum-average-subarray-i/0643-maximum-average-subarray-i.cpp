@@ -4,7 +4,6 @@ public:
         double current_avg = 0;
         int total = 0;
 
-        // calculate first window sum
         for (int i = 0; i < k; i++) {
             total += nums[i];
         }
