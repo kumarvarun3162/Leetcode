@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kumarvarun3162/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/kumarvarun3162/Leetcode/tree/master/0567-permutation-in-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kumarvarun3162/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/kumarvarun3162/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kumarvarun3162/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kumarvarun3162/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kumarvarun3162/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/kumarvarun3162/Leetcode/tree/master/0567-permutation-in-string) |
 | [0809-expressive-words](https://github.com/kumarvarun3162/Leetcode/tree/master/0809-expressive-words) |
 | [0876-middle-of-the-linked-list](https://github.com/kumarvarun3162/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/kumarvarun3162/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/kumarvarun3162/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kumarvarun3162/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kumarvarun3162/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/kumarvarun3162/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kumarvarun3162/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/kumarvarun3162/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kumarvarun3162/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kumarvarun3162/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/kumarvarun3162/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/kumarvarun3162/Leetcode/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kumarvarun3162/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kumarvarun3162/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/kumarvarun3162/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/kumarvarun3162/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kumarvarun3162/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kumarvarun3162/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
