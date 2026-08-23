@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/kumarvarun3162/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/kumarvarun3162/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/kumarvarun3162/Leetcode/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/kumarvarun3162/Leetcode/tree/master/0735-asteroid-collision) |
 | [0809-expressive-words](https://github.com/kumarvarun3162/Leetcode/tree/master/0809-expressive-words) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kumarvarun3162/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kumarvarun3162/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kumarvarun3162/Leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/kumarvarun3162/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/kumarvarun3162/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0735-asteroid-collision](https://github.com/kumarvarun3162/Leetcode/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/kumarvarun3162/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
 |  |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/kumarvarun3162/Leetcode/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/kumarvarun3162/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kumarvarun3162/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
