@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/kumarvarun3162/Leetcode/tree/master/0567-permutation-in-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kumarvarun3162/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1386-cinema-seat-allocation](https://github.com/kumarvarun3162/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1657-determine-if-two-strings-are-close](https://github.com/kumarvarun3162/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kumarvarun3162/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kumarvarun3162/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kumarvarun3162/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0809-expressive-words](https://github.com/kumarvarun3162/Leetcode/tree/master/0809-expressive-words) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/kumarvarun3162/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kumarvarun3162/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1657-determine-if-two-strings-are-close](https://github.com/kumarvarun3162/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/kumarvarun3162/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/kumarvarun3162/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kumarvarun3162/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/kumarvarun3162/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kumarvarun3162/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1657-determine-if-two-strings-are-close](https://github.com/kumarvarun3162/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kumarvarun3162/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kumarvarun3162/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kumarvarun3162/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/kumarvarun3162/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2029-stone-game-ix](https://github.com/kumarvarun3162/Leetcode/tree/master/2029-stone-game-ix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kumarvarun3162/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kumarvarun3162/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
