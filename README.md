@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kumarvarun3162/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kumarvarun3162/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/kumarvarun3162/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/kumarvarun3162/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/kumarvarun3162/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Sorting
 |  |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/kumarvarun3162/Leetcode/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kumarvarun3162/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kumarvarun3162/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/kumarvarun3162/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Depth-First Search
 |  |
 | ------- |
