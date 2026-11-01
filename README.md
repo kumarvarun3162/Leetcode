@@ -4,8 +4,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/kumarvarun3162/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/kumarvarun3162/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kumarvarun3162/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -22,8 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kumarvarun3162/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/kumarvarun3162/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/kumarvarun3162/Leetcode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/kumarvarun3162/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/kumarvarun3162/Leetcode/tree/master/0125-valid-palindrome) |
@@ -47,8 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kumarvarun3162/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kumarvarun3162/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/kumarvarun3162/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/kumarvarun3162/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/kumarvarun3162/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -57,8 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kumarvarun3162/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kumarvarun3162/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/kumarvarun3162/Leetcode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/kumarvarun3162/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kumarvarun3162/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -69,8 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/kumarvarun3162/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kumarvarun3162/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/kumarvarun3162/Leetcode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/kumarvarun3162/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kumarvarun3162/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -91,11 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kumarvarun3162/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kumarvarun3162/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/kumarvarun3162/Leetcode/tree/master/0002-add-two-numbers) |
 | [0292-nim-game](https://github.com/kumarvarun3162/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/kumarvarun3162/Leetcode/tree/master/0319-bulb-switcher) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/kumarvarun3162/Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/kumarvarun3162/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kumarvarun3162/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/kumarvarun3162/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -113,8 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/kumarvarun3162/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/kumarvarun3162/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/kumarvarun3162/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kumarvarun3162/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/kumarvarun3162/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -124,8 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/kumarvarun3162/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/kumarvarun3162/Leetcode/tree/master/3731-find-missing-elements) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kumarvarun3162/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/kumarvarun3162/Leetcode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/kumarvarun3162/Leetcode/tree/master/0035-search-insert-position) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kumarvarun3162/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/kumarvarun3162/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/kumarvarun3162/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/kumarvarun3162/Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/kumarvarun3162/Leetcode/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/kumarvarun3162/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kumarvarun3162/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -167,29 +169,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/kumarvarun3162/Leetcode/tree/master/3731-find-missing-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/kumarvarun3162/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kumarvarun3162/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/kumarvarun3162/Leetcode/tree/master/0035-search-insert-position) |
 | [0410-split-array-largest-sum](https://github.com/kumarvarun3162/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kumarvarun3162/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kumarvarun3162/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/kumarvarun3162/Leetcode/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kumarvarun3162/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/kumarvarun3162/Leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/kumarvarun3162/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/kumarvarun3162/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/kumarvarun3162/Leetcode/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/kumarvarun3162/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/kumarvarun3162/Leetcode/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/kumarvarun3162/Leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/kumarvarun3162/Leetcode/tree/master/0203-remove-linked-list-elements) |
@@ -197,13 +199,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/kumarvarun3162/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/kumarvarun3162/Leetcode/tree/master/0486-predict-the-winner) |
 ## Brainteaser
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0292-nim-game](https://github.com/kumarvarun3162/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/kumarvarun3162/Leetcode/tree/master/0319-bulb-switcher) |
 ## Game Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0292-nim-game](https://github.com/kumarvarun3162/Leetcode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/kumarvarun3162/Leetcode/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/kumarvarun3162/Leetcode/tree/master/1406-stone-game-iii) |
@@ -212,19 +214,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/kumarvarun3162/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/kumarvarun3162/Leetcode/tree/master/2029-stone-game-ix) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kumarvarun3162/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/kumarvarun3162/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2029-stone-game-ix](https://github.com/kumarvarun3162/Leetcode/tree/master/2029-stone-game-ix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kumarvarun3162/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kumarvarun3162/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0053-maximum-subarray](https://github.com/kumarvarun3162/Leetcode/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kumarvarun3162/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/kumarvarun3162/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -240,21 +242,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kumarvarun3162/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kumarvarun3162/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kumarvarun3162/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kumarvarun3162/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/kumarvarun3162/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/kumarvarun3162/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/kumarvarun3162/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/kumarvarun3162/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/kumarvarun3162/Leetcode/tree/master/0525-contiguous-array) |
@@ -263,20 +265,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/kumarvarun3162/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1732-find-the-highest-altitude](https://github.com/kumarvarun3162/Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Minimax
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1406-stone-game-iii](https://github.com/kumarvarun3162/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kumarvarun3162/Leetcode/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/kumarvarun3162/Leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1406-stone-game-iii](https://github.com/kumarvarun3162/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kumarvarun3162/Leetcode/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/kumarvarun3162/Leetcode/tree/master/2029-stone-game-ix) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/kumarvarun3162/Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kumarvarun3162/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/kumarvarun3162/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -290,62 +292,62 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kumarvarun3162/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/kumarvarun3162/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3310-remove-methods-from-project](https://github.com/kumarvarun3162/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3310-remove-methods-from-project](https://github.com/kumarvarun3162/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3310-remove-methods-from-project](https://github.com/kumarvarun3162/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kumarvarun3162/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kumarvarun3162/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kumarvarun3162/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kumarvarun3162/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1510-stone-game-iv](https://github.com/kumarvarun3162/Leetcode/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/kumarvarun3162/Leetcode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1510-stone-game-iv](https://github.com/kumarvarun3162/Leetcode/tree/master/1510-stone-game-iv) |
 ## Bracket Sequences
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/kumarvarun3162/Leetcode/tree/master/0020-valid-parentheses) |
 ## Euclidean Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/kumarvarun3162/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Greatest Common Divisor
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/kumarvarun3162/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kumarvarun3162/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kumarvarun3162/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0175-combine-two-tables](https://github.com/kumarvarun3162/Leetcode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/kumarvarun3162/Leetcode/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/kumarvarun3162/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
@@ -368,18 +370,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1757-recyclable-and-low-fat-products](https://github.com/kumarvarun3162/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/kumarvarun3162/Leetcode/tree/master/1934-confirmation-rate) |
 ## Longest Increasing Subsequence
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/kumarvarun3162/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1386-cinema-seat-allocation](https://github.com/kumarvarun3162/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kumarvarun3162/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kumarvarun3162/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0735-asteroid-collision](https://github.com/kumarvarun3162/Leetcode/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/kumarvarun3162/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kumarvarun3162/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
