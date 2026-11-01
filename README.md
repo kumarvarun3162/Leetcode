@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/kumarvarun3162/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/kumarvarun3162/Leetcode/tree/master/0319-bulb-switcher) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kumarvarun3162/Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kumarvarun3162/Leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/kumarvarun3162/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kumarvarun3162/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/kumarvarun3162/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kumarvarun3162/Leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/kumarvarun3162/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kumarvarun3162/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/kumarvarun3162/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/kumarvarun3162/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/kumarvarun3162/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kumarvarun3162/Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kumarvarun3162/Leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/kumarvarun3162/Leetcode/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/kumarvarun3162/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kumarvarun3162/Leetcode/tree/master/0560-subarray-sum-equals-k) |
