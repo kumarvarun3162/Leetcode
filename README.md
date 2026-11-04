@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kumarvarun3162/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/kumarvarun3162/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/kumarvarun3162/Leetcode/tree/master/3731-find-missing-elements) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/kumarvarun3162/Leetcode/tree/main/4056-number-of-intersecting-interval-pairs-i/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/kumarvarun3162/Leetcode/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kumarvarun3162/Leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/kumarvarun3162/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/kumarvarun3162/Leetcode/tree/main/4056-number-of-intersecting-interval-pairs-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/kumarvarun3162/Leetcode/tree/master/0035-search-insert-position) |
 | [0410-split-array-largest-sum](https://github.com/kumarvarun3162/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kumarvarun3162/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/kumarvarun3162/Leetcode/tree/main/4056-number-of-intersecting-interval-pairs-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kumarvarun3162/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/kumarvarun3162/Leetcode/tree/main/4056-number-of-intersecting-interval-pairs-i/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
