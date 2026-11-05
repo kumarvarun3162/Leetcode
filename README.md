@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/kumarvarun3162/Leetcode/tree/master/0567-permutation-in-string) |
 | [0809-expressive-words](https://github.com/kumarvarun3162/Leetcode/tree/master/0809-expressive-words) |
 | [0876-middle-of-the-linked-list](https://github.com/kumarvarun3162/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kumarvarun3162/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kumarvarun3162/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/kumarvarun3162/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kumarvarun3162/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kumarvarun3162/Leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/kumarvarun3162/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kumarvarun3162/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kumarvarun3162/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/kumarvarun3162/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kumarvarun3162/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/kumarvarun3162/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kumarvarun3162/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/kumarvarun3162/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kumarvarun3162/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/kumarvarun3162/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/kumarvarun3162/Leetcode/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kumarvarun3162/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/kumarvarun3162/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/kumarvarun3162/Leetcode/tree/master/0035-search-insert-position) |
 | [0410-split-array-largest-sum](https://github.com/kumarvarun3162/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kumarvarun3162/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kumarvarun3162/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/kumarvarun3162/Leetcode/tree/main/4056-number-of-intersecting-interval-pairs-i/) | Easy |
 ## Divide and Conquer
