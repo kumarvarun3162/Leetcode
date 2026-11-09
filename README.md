@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/kumarvarun3162/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kumarvarun3162/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/kumarvarun3162/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1267-count-servers-that-communicate](https://github.com/kumarvarun3162/Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kumarvarun3162/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/kumarvarun3162/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/kumarvarun3162/Leetcode/tree/master/1406-stone-game-iii) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/kumarvarun3162/Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/kumarvarun3162/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2029-stone-game-ix](https://github.com/kumarvarun3162/Leetcode/tree/master/2029-stone-game-ix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kumarvarun3162/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -323,10 +325,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/kumarvarun3162/Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/kumarvarun3162/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/kumarvarun3162/Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/kumarvarun3162/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -421,4 +425,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/kumarvarun3162/Leetcode/tree/main/1025-divisor-game/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/kumarvarun3162/Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/kumarvarun3162/Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 <!---LeetCode Topics End-->
