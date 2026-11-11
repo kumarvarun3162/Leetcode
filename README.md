@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/kumarvarun3162/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/kumarvarun3162/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kumarvarun3162/Leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/kumarvarun3162/Leetcode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/kumarvarun3162/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Sorting
 | Problem Name | Difficulty |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kumarvarun3162/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kumarvarun3162/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/kumarvarun3162/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/kumarvarun3162/Leetcode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
